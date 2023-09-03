@@ -40,7 +40,7 @@ function Narbar(){
         <nav>
         <h1>
           <NavLink to='#' ><img
-                src='/src/assets/img/logo.png'
+                src='https://github.com/ejchuang/2023-react-todolist/blob/master/src/assets/img/logo.png'
                 alt='目前尚無待辦事項'
               /></NavLink>
         </h1>

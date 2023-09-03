@@ -3,7 +3,7 @@ function Leftimg(){
     <>
     <img
             className='d-m-n'
-            src='/src/assets/img/left.png'
+            src='https://github.com/ejchuang/2023-react-todolist/blob/master/src/assets/img/left.png?raw=true'
             alt='workImg'
           />
     </>

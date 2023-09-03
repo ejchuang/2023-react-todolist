@@ -218,7 +218,7 @@ function Todo() {
             <div className='mt-3'>
               <p className='text-center'>目前尚無待辦事項</p>
               <img
-                src='/src/assets/img/empty.png'
+                src='https://github.com/ejchuang/2023-react-todolist/blob/master/src/assets/img/empty.png?raw=true'
                 alt='目前尚無待辦事項'
               />
             </div>
